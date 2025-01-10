@@ -32,3 +32,25 @@ Programa que inverte os caracteres de uma string fornecida pelo usuário.
 
 - **JDK 8 ou superior** instalado no seu sistema.
 - **IDE de sua preferência** para edição (recomenda-se o [VS Code](https://code.visualstudio.com/)).
+
+### Passos para Execução
+
+1. Clone este repositório para o seu computador:
+
+bash
+   git clone https://github.com/ronaldohauser/teste-tecnico-target-sistemas-java.git
+Navegue até o diretório do projeto:
+
+bash
+Copiar código
+cd teste-tecnico-target-sistemas-java
+Compile e execute os arquivos Java desejados utilizando o terminal ou sua IDE preferida.
+
+Exemplo de execução (para o programa de Faturamento por Estado):
+bash
+Copiar código
+
+javac FaturamentoEstados.java
+java FaturamentoEstados
+Licença
+Este repositório é de propriedade de Ronaldo Hauser Dias e está disponível para avaliação no teste técnico da Target Sistemas.
